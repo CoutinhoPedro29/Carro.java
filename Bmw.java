@@ -1,4 +1,4 @@
-public class BMW extends Carro
+public class BMW extends TesterCarro
 {
  private int velocidade;
 
