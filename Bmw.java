@@ -1,5 +1,6 @@
-public class BMW estends Carro
+public class BMW extends Carro
 {
- private velocidade;
+ private int velocidade;
 
 pulic imprimir();
+}
