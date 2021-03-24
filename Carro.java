@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Carro
+public class Carro extends TesterCarro
 {
  private int num_acentos;
  private String cor;
